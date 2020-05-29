@@ -1,0 +1,14 @@
+{
+  "product":{
+    "card": [
+      {
+        "title":" Cost Effective 2D CAD",
+        "category":"My Travel Blog for my post-university travels",
+        "cardUrl" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gettyimages.com%2Fphotos%2Feye&psig=AOvVaw18TcvxHc6pKduYnd0Bw7d7&ust=1580743622965000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPihjIOXs-cCFQAAAAAdAAAAABAI",
+        "image":"canadian-wanderlust.jpg",
+        "moreDetails": "More details",
+        "url":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fbeauty%2F&psig=AOvVaw18TcvxHc6pKduYnd0Bw7d7&ust=1580743622965000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPihjIOXs-cCFQAAAAAdAAAAABAD"
+      }
+    ]
+  }
+}
